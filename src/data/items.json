@@ -1,0 +1,359 @@
+[
+    {
+      "index": ["drink", "coffee"],
+      "id": 1,
+      "name": "Американо",
+      "price": 200,
+      "imgUrl": "/imgs/coffee-in-plants.jpg"
+    },
+    {
+      "index": ["food", "snack"],
+      "id": 2,
+      "name": "Булочка-Бао",
+      "price": 350,
+      "imgUrl": "/imgs/close-up-of-a-bao-bun-on-a-wooden-table.jpg"
+    },
+    {
+      "index": ["food", "dish"],
+      "id": 3,
+      "name": "Курица-карри",
+      "price": 450,
+      "imgUrl": "/imgs/butter-chicken-indian-dining.jpg"
+    },
+    {
+      "index": ["food", "pizza"],
+      "id": 4,
+      "name": "Пицца 'Пепперони'",
+      "price": 700,
+      "imgUrl": "/imgs/classic-pizza-with-peppers-and-parmesian.jpg"
+    },
+    {
+      "index": ["food", "soup"],
+      "id": 5,
+      "name": "Тыквенный суп",
+      "price": 400,
+      "imgUrl": "/imgs/bowl-of-soup-and-rustic-crusty-bread.jpg"
+    },
+    {
+      "index": ["drink", "coffee"],
+      "id": 6,
+      "name": "Айс латте",
+      "price": 320,
+      "imgUrl": "/imgs/creamy-cold-drink-sits-on-a-wooden-table.jpg"
+    },
+    {
+      "index": ["food", "dessert"],
+      "id": 7,
+      "name": "Пышки с сахарной пудрой",
+      "price": 150,
+      "imgUrl": "/imgs/stack-of-doughnuts-with-white-powered-tops-on-a-plate.jpg"
+    },
+    {
+      "index": ["food", "soup"],
+      "id": 8,
+      "name": "Рамэн",
+      "price": 450,
+      "imgUrl": "/imgs/steaming-bowl-of-noodle-soup-on-a-wooden-surface.jpg"
+    },
+    {
+      "index": ["food", "snack"],
+      "id": 9,
+      "name": "Тако",
+      "price": 350,
+      "imgUrl": "/imgs/two-tacos.jpg"
+    },
+    {
+      "index": ["drink", "coffee"],
+      "id": 10,
+      "name": "Раф",
+      "price": 300,
+      "imgUrl": "/imgs/latte-art.jpg"
+    },
+    {
+      "index": ["food", "pizza"],
+      "id": 11,
+      "name": "Пицца 'Маргаритта'",
+      "price": 600,
+      "imgUrl": "/imgs/first-slice-of-fresh-margarita-pizza.jpg"
+    },
+    {
+      "index": ["food", "pizza"],
+      "id": 12,
+      "name": "Пицца 'Вегетарианская'",
+      "price": 500,
+      "imgUrl": "/imgs/rahul-upadhyay-yDKHJxfiWDk-unsplash.jpg"
+    },
+    {
+      "index": ["food", "pizza"],
+      "id": 13,
+      "name": "Пицца 'Гавайская'",
+      "price": 550,
+      "imgUrl": "/imgs/chad-montano-MqT0asuoIcU-unsplash.jpg"
+    },
+    {
+      "index": ["drink", "coffee"],
+      "id": 14,
+      "name": "Капучино",
+      "price": 300,
+      "imgUrl": "/imgs/orkun-orcan-Vh_owx2ijSM-unsplash.jpg"
+    },
+    {
+      "index": ["drink", "no-coffee"],
+      "id": 15,
+      "name": "Вода газированная",
+      "price": 100,
+      "imgUrl": "/imgs/rocks-glass-with-ice-and-water-on-a-wooden-table.jpg"
+    },
+    {
+      "index": ["drink", "no-coffee"],
+      "id": 16,
+      "name": "Вода негазированная",
+      "price": 100,
+      "imgUrl": "/imgs/rocks-glass-with-ice-and-water-on-a-wooden-table.jpg"
+    },
+    {
+      "index": ["drink", "coffee"],
+      "id": 17,
+      "name": "Эспрессо",
+      "price": 150,
+      "imgUrl": "/imgs/abhishek-hajare-5ktFbfxIV3o-unsplash.jpg"
+    },
+    {
+      "index": ["drink", "no-coffee"],
+      "id": 18,
+      "name": "Чай фруктовый",
+      "price": 150,
+      "imgUrl": "/imgs/fruit-red-tea-with-berries.jpg"
+    },
+    {
+      "index": ["drink", "no-coffee"],
+      "id": 19,
+      "name": "Чай чёрный",
+      "price": 150,
+      "imgUrl": "/imgs/lucas-george-wendt-AbfVHFSEIKk-unsplash.jpg"
+    },
+    {
+      "index": ["drink", "no-coffee"],
+      "id": 20,
+      "name": "Чай зелёный",
+      "price": 150,
+      "imgUrl": "/imgs/leaf-plate-wood-object-healthy-eating.jpg"
+    },
+    {
+      "index": ["drink", "no-coffee"],
+      "id": 21,
+      "name": "Шоколадный милкшейк",
+      "price": 300,
+      "imgUrl": "/imgs/jonathan-borba-7TeR1A1MUpM-unsplash.jpg"
+    },
+    {
+      "index": ["drink", "no-coffee"],
+      "id": 22,
+      "name": "Ванильный милкшейк",
+      "price": 300,
+      "imgUrl": "/imgs/louis-hansel-OaGUHIjCdCs-unsplash.jpg"
+    },
+    {
+      "index": ["drink", "no-coffee"],
+      "id": 23,
+      "name": "Черничный милкшейк",
+      "price": 300,
+      "imgUrl": "/imgs/pichara-GPcoF-s6_DI-unsplash.jpg"
+    },
+    {
+      "index": ["food", "soup"],
+      "id": 24,
+      "name": "Томатный суп",
+      "price": 350,
+      "imgUrl": "/imgs/nathan-dumlao-r4q1E4CHwh8-unsplash.jpg"
+    },
+    {
+      "index": ["food", "soup"],
+      "id": 25,
+      "name": "Овощной суп",
+      "price": 350,
+      "imgUrl": "/imgs/margaret-jaszowska-kR_rjgmItQk-unsplash.jpg"
+    },
+    {
+      "index": ["food", "soup"],
+      "id": 26,
+      "name": "Солянка",
+      "price": 400,
+      "imgUrl": "/imgs/nathan-dumlao-5eROVOJW2bA-unsplash.jpg"
+    },
+    {
+      "index": ["food", "snack"],
+      "id": 27,
+      "name": "Кесадилья",
+      "price": 350,
+      "imgUrl": "/imgs/sandwich-with-ground-meat.jpg"
+    },
+    {
+      "index": ["food", "snack"],
+      "id": 28,
+      "name": "Клаб сэндвич",
+      "price": 320,
+      "imgUrl": "/imgs/pille-r-priske-U0PiIS4Uvkc-unsplash.jpg"
+    },
+    {
+      "index": ["food", "dish"],
+      "id": 29,
+      "name": "Паста балоньезе",
+      "price": 450,
+      "imgUrl": "/imgs/nicholas-grande-d9jcPTRD9fo-unsplash.jpg"
+    },
+    {
+      "index": ["food", "dish"],
+      "id": 30,
+      "name": "Паста карбонара",
+      "price": 450,
+      "imgUrl": "/imgs/sama-hosseini-wTBGTwHlf0c-unsplash.jpg"
+    },
+    {
+      "index": ["food", "dish"],
+      "id": 31,
+      "name": "Форель в сливочном соусе",
+      "price": 550,
+      "imgUrl": "/imgs/khloe-arledge-ND3edEmzcdQ-unsplash.jpg"
+    },
+    {
+      "index": ["food", "dish"],
+      "id": 32,
+      "name": "Кисло-сладкий куриный попкорн",
+      "price": 450,
+      "imgUrl": "/imgs/mariam-sodawater-cqo1qQOLTm0-unsplash.jpg"
+    },
+    {
+      "index": ["food", "dessert"],
+      "id": 33,
+      "name": "Чизкейк с вишней",
+      "price": 250,
+      "imgUrl": "/imgs/kalisha-ocheni-_BBTqanOrBI-unsplash.jpg"
+    },
+    {
+      "index": ["food", "dessert"],
+      "id": 34,
+      "name": "Чизкейк с чёрной смородиной",
+      "price": 250,
+      "imgUrl": "/imgs/mink-mingle-LGNxQzYmeUk-unsplash.jpg"
+    },
+    {
+      "index": ["food", "dessert"],
+      "id": 35,
+      "name": "Блинчики с клубникой и взбитыми сливками",
+      "price": 280,
+      "imgUrl": "/imgs/joyful-vT5xrj3z1OE-unsplash.jpg"
+    },
+    {
+      "index": ["food", "dessert"],
+      "id": 36,
+      "name": "Тарталетка с малиной",
+      "price": 190,
+      "imgUrl": "/imgs/fernando-andrade-89h9zKa0L0g-unsplash.jpg"
+    },
+    {
+      "index": ["food", "dessert"],
+      "id": 37,
+      "name": "Пончики в глазури",
+      "price": 230,
+      "imgUrl": "/imgs/heather-ford-POM4KxWZcG8-unsplash.jpg"
+    },
+    {
+      "index": ["food", "dessert"],
+      "id": 38,
+      "name": "Шоколадный капкейк",
+      "price": 180,
+      "imgUrl": "/imgs/jr-r-90HdOlGbjck-unsplash.jpg"
+    },
+    {
+      "index": ["drink", "no-coffee"],
+      "id": 39,
+      "name": "Горячий шоколад",
+      "price": 270,
+      "imgUrl": "/imgs/abhishek-hajare-lJfeBZCleqc-unsplash.jpg"
+    },
+    {
+      "index": ["drink", "no-coffee"],
+      "id": 40,
+      "name": "Апельсиновый сок",
+      "price": 200,
+      "imgUrl": "/imgs/abhishek-hajare-kkrXVKK-jhg-unsplash.jpg"
+    },
+    {
+      "index": ["food", "dish"],
+      "id": 41,
+      "name": "Чикен бургер",
+      "price": 400,
+      "imgUrl": "/imgs/abhishek-hajare-1CYYWTTLhwU-unsplash.jpg"
+    },
+    {
+      "index": ["food", "snack"],
+      "id": 42,
+      "name": "Картофель фри",
+      "price": 300,
+      "imgUrl": "/imgs/matthew-reyes-5I5aqYJrdso-unsplash.jpg"
+    },
+    {
+      "index": ["food", "dessert"],
+      "id": 43,
+      "name": "Клубничный капкейк",
+      "price": 190,
+      "imgUrl": "/imgs/luisana-zerpa-MJPr6nOdppw-unsplash.jpg"
+    },
+    {
+      "index": ["food", "dessert"],
+      "id": 44,
+      "name": "Макарон",
+      "price": 160,
+      "imgUrl": "/imgs/eaters-collective-rS1GogPLVHk-unsplash.jpg"
+    },
+    {
+      "index": ["food", "snack"],
+      "id": 45,
+      "name": "Брускетта с лососем",
+      "price": 300,
+      "imgUrl": "/imgs/orkun-orcan-uD_GCUY9eDU-unsplash.jpg"
+    },
+    {
+      "index": ["food", "dish"],
+      "id": 46,
+      "name": "Роллы с крабом и манго",
+      "price": 450,
+      "imgUrl": "/imgs/orkun-orcan-3__mbKiCNvg-unsplash.jpg"
+    },
+    {
+      "index": ["food", "dish"],
+      "id": 47,
+      "name": "Креветки в кляре",
+      "price": 450,
+      "imgUrl": "/imgs/orkun-orcan-s-f4dPzSBBs-unsplash.jpg"
+    },
+    {
+      "index": ["food", "dish"],
+      "id": 48,
+      "name": "Паста с овощами",
+      "price": 480,
+      "imgUrl": "/imgs/orkun-orcan-w0GyGNyGo6Y-unsplash.jpg"
+    },
+    {
+      "index": ["food", "dish"],
+      "id": 49,
+      "name": "Суши",
+      "price": 450,
+      "imgUrl": "/imgs/orkun-orcan-nHit7o0Viig-unsplash.jpg"
+    },
+    {
+      "index": ["food", "dish"],
+      "id": 50,
+      "name": "Стейк с овощами",
+      "price": 750,
+      "imgUrl": "/imgs/orkun-orcan-tLGAOnl4p28-unsplash.jpg"
+    },
+    {
+      "index": ["food", "dish"],
+      "id": 51,
+      "name": "Стейк из лосося с овощами",
+      "price": 750,
+      "imgUrl": "/imgs/orkun-orcan-3ru16c1mSsU-unsplash.jpg"
+    }
+]
